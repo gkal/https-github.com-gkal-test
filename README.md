@@ -1,4 +1,6 @@
-# React + TypeScript + Vite
+# Employee Data Entry System
+
+A React + TypeScript + Vite application for managing employee data.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
