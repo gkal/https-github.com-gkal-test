@@ -9,7 +9,7 @@ const Home = () => {
     <div className="min-h-screen w-full bg-background p-4">
       <div className="w-full max-w-6xl mx-auto space-y-8">
         <div className="text-center">
-          <h1 className="text-3xl font-bold text-foreground">
+          <h1 className="text-3xl font-bold text-foreground tracking-tight">
             Employee Data Entry Form
           </h1>
           <p className="text-muted-foreground mt-2">

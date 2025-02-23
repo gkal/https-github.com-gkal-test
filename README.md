@@ -2,6 +2,13 @@
 
 A React + TypeScript + Vite application for managing employee data.
 
+## Features
+
+- Data entry form with validation
+- Real-time updates
+- Responsive design
+- Supabase integration
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
